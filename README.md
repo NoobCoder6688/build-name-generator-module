@@ -1,0 +1,1 @@
+# build-name-generator-module
